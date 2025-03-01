@@ -34,3 +34,17 @@ period last year (YoY Price Trend)?
 while the PYTD Avg Price Benchmark (using the PYTD measure) might be
 lower or higher. If it has decreased, it could indicate a shift toward selling
 lower-priced models or increased competition.
+6. What are the Month-to-Date (MTD) total sales, and how does it compare to
+cumulative MTD car sales?
+• Insight:
+o MTD total sales are detailed in the measure MTD Total Sales, and
+MTD car volumes are tracked through MTD Cars Sold.
+o The delta in MTD cars sold (3K cars) indicates an increasing pace of
+sales relative to earlier months, supporting a possible end-of-year surge.
+7. Which car model has the highest total revenue and cumulative sales, and how
+does it compare to others?
+• Insight: From the data table and cumulative sales measures:
+o A specific model might lead in total sales value with $82,000 in a single
+transaction, while others like Expedition by Ford might drive high
+volume but lower revenue per unit.
+o Understanding this split can help in inventory and sales strategy.
